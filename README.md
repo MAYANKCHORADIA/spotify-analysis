@@ -129,17 +129,24 @@ Scatter plots showing relationships between:
 
 - Danceability vs Popularity
 - Energy vs Popularity
-- Tempo vs Popularity
+- Valence vs Popularity
+- Acousticness vs Popularity
 
 #### Correlation Heatmap
 Correlation matrix showing relationships between audio features such as:
 
+- popularity
 - danceability
 - energy
 - loudness
+- speechiness
+- acousticness
+- instrumentalness
+- liveness
 - tempo
 - valence
-- popularity
+- duration_min
+  
 
 ---
 
